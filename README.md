@@ -28,10 +28,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AnaCarolinaPGDO/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
@@ -41,10 +37,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://github.com/AnaCarolinaPGDO/AnaCarolinaPGDO" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/ana-carolina-458b13300/" height="40" alt="linkedin logo"  />
 </div>
 
